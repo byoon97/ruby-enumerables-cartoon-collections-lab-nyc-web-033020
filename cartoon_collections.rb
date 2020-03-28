@@ -4,7 +4,6 @@ end
 
 def summon_captain_planet(array)
     array.map { |element| new = element[0].upcase+ "!" }
-    new
 end
 
 def long_planeteer_calls# code an argument here
